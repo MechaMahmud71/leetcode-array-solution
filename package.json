@@ -2,9 +2,9 @@
   "name": "leetcode",
   "version": "1.0.0",
   "description": "",
-  "main": "1313.js",
+  "main": "1.js",
   "scripts": {
-    "start": "nodemon 1313.js"
+    "start": "nodemon 1.js"
   },
   "author": "",
   "license": "ISC"

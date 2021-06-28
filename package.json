@@ -2,9 +2,9 @@
   "name": "leetcode",
   "version": "1.0.0",
   "description": "",
-  "main": "1.js",
+  "main": "arrayfilter.js",
   "scripts": {
-    "start": "nodemon 1.js"
+    "start": "nodemon arrayfilter.js"
   },
   "author": "",
   "license": "ISC"

@@ -1,19 +1,19 @@
 let a=[1,2,3,4,6];
 let b=[1,2,3,5];
  
-console.log([...a,...b])
+// console.log([...a,...b])
 
 
 
 
-// let filterArr=[];
-// a.forEach(el=>{
-//   if(!b.includes(el)){
-//     filterArr.push(el)
-//   }
-// })
+let filterArr=[];
+a.forEach(el=>{
+  if(!b.includes(el)){
+    filterArr.push(el)
+  }
+})
 
-// console.log(filterArr);
+console.log(filterArr);
 
 // let subs=[{name:"Bangla"}];
 
@@ -66,3 +66,14 @@ console.log([...a,...b])
 // const solution=filterArr([1,2,3,4],[1,2,5,6,7]);
 
 // console.log(solution)
+
+
+//selection sort dsc
+
+
+
+// const a=[2,4,3];
+// console.log(a.sort((x,y)=>y-x));
+
+
+
